@@ -50,7 +50,7 @@ $l['amnesia_personal_data_export_requested'] = 'Ein Bestätigungscode wurde an I
 $l['amnesia_personal_data_export_request_verification_subject'] = 'Bestätigen Sie Ihre Anfrage zum Exportieren persönlicher Daten';
 $l['amnesia_personal_data_export_request_verification_message'] = '{1},
 
-Um den Exportvorgang für personenbezogene Daten um {2} abzuschließen, müssen Sie in dem Webbrowser, den Sie zum Initiieren der Anforderung verwendet haben, zur folgenden URL wechseln. Der Code ist 24 Stunden gültig.
+Um den Exportvorgang für personenbezogene Daten bei {2} abzuschließen, müssen Sie in dem Webbrowser, den Sie zum Initiieren der Anforderung verwendet haben, zur folgenden URL wechseln. Der Code ist 24 Stunden gültig.
 
 {3}
 
