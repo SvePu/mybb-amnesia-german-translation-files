@@ -12,11 +12,15 @@ $l['amnesia_privacy_policy_date_last_read'] = 'Akzeptiert {1}';
 $l['amnesia_privacy_policy_accepted'] = 'Vielen Dank, Sie werden jetzt zurückgeleitet.';
 
 $l['amnesia_personal_data_erasure'] = 'Löschung personenbezogener Daten';
-$l['amnesia_personal_data_erasure_description'] = 'Hier können Sie die Löschung Ihrer persönlichen Daten beantragen, wodurch Ihr Konto <strong> dauerhaft deaktiviert </strong> wird. Ein Bestätigungscode wird an Ihre E-Mail-Adresse gesendet, um Ihre Anfrage zu bestätigen.';
+$l['amnesia_personal_data_erasure_description'] = 'Hier können Sie die Löschung Ihrer persönlichen Daten beantragen.';
+$l['amnesia_personal_data_erasure_anonymization'] = 'Durch diesen Vorgang wird Ihr Konto anonymisiert und <strong>dauerhaft deaktiviert</strong>.';
+$l['amnesia_personal_data_erasure_deletion'] = 'Durch diesen Vorgang wird <strong>Ihr Konto dauerhaft gelöscht</strong>.';
+$l['amnesia_personal_data_erasure_no_content'] = 'Übermittelte Inhalte wie Beiträge und Themen werden nicht entfernt.';
+$l['amnesia_personal_data_erasure_verification_code'] = 'Ein Bestätigungscode wird an Ihre E-Mail-Adresse gesendet, um Ihre Anfrage zu bestätigen.';
 $l['amnesia_personal_data_erasure_waiting_period_days'] = 'Die Daten werden nach {1} Tagen gelöscht. Während dieser Zeit können Sie den Vorgang nach der Anmeldung abbrechen.';
 $l['amnesia_personal_data_erasure_approval'] = 'Ihre Daten werden gelöscht, sobald der Administrator Ihre Anfrage genehmigt hat.';
 $l['amnesia_personal_data_erasure_options'] = 'Löschoptionen';
-$l['amnesia_personal_data_erasure_content'] = 'Geposteten Inhalt entfernen';
+$l['amnesia_personal_data_erasure_content'] = 'Übermittelten Inhalt entfernen';
 $l['amnesia_personal_data_erasure_content_description'] = 'Wählen Sie aus, ob auch von Ihrem Account gepostete Inhalte (Posts, Threads usw.) entfernt werden sollen.';
 $l['amnesia_personal_data_erasure_comment'] = 'Kommentar';
 $l['amnesia_personal_data_erasure_comment_description'] = 'Sie können zusätzliche Details in Bezug auf Ihre Anfrage an den Board-Administrator angeben.';

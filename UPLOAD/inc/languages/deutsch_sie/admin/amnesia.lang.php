@@ -23,6 +23,7 @@ $l['amnesia_admin_scheduled_date'] = 'Geplant für';
 $l['amnesia_admin_action_date'] = 'Gelöscht';
 $l['amnesia_admin_with_content'] = 'Inhalt';
 $l['amnesia_admin_comment'] = 'Kommentar';
+$l['amnesia_admin_view_profile'] = 'Profil ansehen';
 $l['amnesia_admin_approve'] = 'Genehmigen';
 $l['amnesia_admin_cancel'] = 'Abbrechen';
 $l['amnesia_admin_personal_data_erasure_requests_unapproved_empty'] = 'Keine Anfragen, deren Genehmigung noch aussteht.';
